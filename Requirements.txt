@@ -1,0 +1,8 @@
+Packages:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+Jupiter
