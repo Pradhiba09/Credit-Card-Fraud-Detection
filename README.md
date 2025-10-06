@@ -9,7 +9,7 @@ This project aims to detect fraudulent transactions using Machine Learning, spec
 Online transactions such as Google Pay, PayPal, and banking apps are highly convenient — but they also increase the risk of fraud.  
 This project builds a fraud detection system using Random Forest, which can analyze large transaction datasets and distinguish between legitimate and fraudulent transactions.
 
-# Objectives  
+## Objectives  
 - Identify fraudulent transactions accurately  
 - Reduce financial losses for banks and customers  
 - Minimize false positives (legitimate transactions wrongly flagged)  
